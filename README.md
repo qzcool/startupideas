@@ -1,4 +1,2 @@
 # startupideas
-
-## TODO
-1. [ ] 做成一个ReadTheDocs文档，同时利用GitHub的PRs和Issues功能实现与受众的互动。
+加速想法落地，助力改变世界。Open Source Startup Ideas. Let's make the world a better place! 
