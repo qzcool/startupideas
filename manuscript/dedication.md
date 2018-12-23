@@ -1,0 +1,10 @@
+# Dedication
+Hi there, welcome to my Idea Library!
+
+I have always been a guy who is full of innovative ideas. Before I started my current full-time job at Citic Securities, I was a serial-practitioner in entrepreneurship in college. Most failed, but I did manage to succeed twice. After I reverse-engineered my failure, I realized that the ability to write code and have an all-round team are two vital determinants to be a successful software entrepreneur. So I decided to self-teach myself to be a programmer while finding partners with complementary skills.
+
+One day, while I was refactoring a for-loop by list comprehension in Python, I suddenly realized it is almost impossible for me to execute all the ideas. Maybe I should just make them open-sourced, so that people with same vision but better skillsets could execute my ideas and increase the overall utility of our world. Then I turned my [Idea Library Trello board](https://trello.com/b/BIweoXtT/ideas-library) public visible and started a column called [Startup Ideas](https://zhuanlan.zhihu.com/startupideas) on [Zhihu](https://www.zhihu.com/), mainly for Chinese entrepreneurs. From then on, I could just be amazed by how eager people want to start their business but need ideas support.
+
+Now I decide to help non-Chinese entrepreneurs to enter the biggest consumer market in the world, with ideas from this book.
+
+All ideas are 100% original, and free to use. The book will be updated as more ideas flowing to my mind. If you would like to contact with me about ideas, please feel free to submit an issue on [GitHub](https://github.com/qzcool/startupideas/issues). Let us make the world a better place with our entrepreneurship!
