@@ -3,4 +3,4 @@
 
 ## Publication
 [Startups with China](https://leanpub.com/startupswithchina) (English). The book version of this repository is being published on Leanpub.
-![](manuscript/images/cover.jpg)
+<img src="manuscript/images/cover.jpg" width="300">
