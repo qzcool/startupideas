@@ -8,10 +8,14 @@ All the ideas below are related with computer programming and programmer.
 
 As more 90s and 00s becoming programmers, products and accessories that demonstrate personality will be in good sale.
 
+### Successful Determinant
+Overall market size is relatively small. Finding the main user groups could be tough.
+
 ### Suggested Procedure
 1. Do the market research on DevStickers's most popular products. Programming languages are universal, it is very likely the popularity is similar in China. Also, the customer segmentation could be quite similar. So at least after the research, you will have a short-list of your initial products and user groups. I bet React and Vue will top the list.
 2. Pick print-on-demand drop-shipping supplier. Not like in the US market where you can find a bundle of mature suppliers like Gooten and Printful, there is few trustworthy supplier in China. I would only recommend [EASYPNP](http://easypnp.com/) as they are the best in on-demand printing in China. Also, seriously consider if you would like to stock some inventories using oversea suppliers for initial stages to get rid of the communication barrier with domestic supplier.
 3. Create your brand. Choose your brand name wisely, better with a Chinese meaning.
+3. Register a WeChat Public Account for your brand using [this link](https://mp.weixin.qq.com/?lang=en_US).
 4. Start your online store on Alibaba Taobao following [this procedure](https://world.taobao.com/helper/knowledge.htm?kid=6563218). Taobao is the largest Chinese C2C e-commerce platform with 448 million monthly-active users (MAU). **Building a Shopify-liked e-commerce website from scratch is not the best choice in China, as customers are more used to shopping on platforms.**
 4. Recruit your first several users and give them free sample for feedback. You can try:
     1. Give free sample to your connections in China
@@ -26,3 +30,19 @@ As more 90s and 00s becoming programmers, products and accessories that demonstr
     2. Tech-driven Startups
 
 ## 2. Coding Live Broadcasting
+Learning to write code could be a tough process, especially for newbies with no idea how to start the text editor and they are taught to write a for-loop. Even for more experienced programmers who want to enhance their design pattern, they may find no study path to learn from the coding habit of top programmers. Coding live broadcasting could be a solution.
+
+I have seen non-Chinese famous programmers broadcasting coding on Twitch.tv and Youtube, but no such things are well-known among Chinese programmer community. Imagine you turn on the live broadcasting while coding for a job or a project and generate passive income with almost zero operating cost except audience advisory. You could even publish your coding record into video lectures and make recursive money.
+
+As long as you could persuade the audience that you are a strong programmer, whatever the clue that you work for FANG or you are the BDFL of pandas, Chinese programmer would love to pay for learning from you. It is a win-win situation.
+
+### Successful Determinant
+The quality of your broadcasting.
+
+### Suggested Procedure
+1. Self capability assessment. If you are already a renowned programmer, then you could jump to step 3. Otherwise, you need to recruit your broadcasting hosts.
+2. Recruit hosts. Find renowned programmers using GitHub and write cold emails to them about this idea. You will get a lot of rejections before several say 'Yes'.
+3. Register a broadcasting account on [Douyu](https://www.douyu.com/) using [this link](https://www.douyu.com/special/guide/anchor), the largest broadcasting platform in China. You might need a Chinese speaking partner to help you go over the registration process mainly in Chinese.
+3. Register a WeChat Public Account for your brand using [this link](https://mp.weixin.qq.com/?lang=en_US).
+4. Recruit your first several users from coding tutorial websites like [Liaoxuefeng](https://www.liaoxuefeng.com/) and [Runoob](http://www.runoob.com/) by advertisements.
+5. Scale it up with fast iteration based on user feedback. Be sure always to serve what the programmers needed.
