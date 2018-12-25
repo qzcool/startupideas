@@ -1,6 +1,14 @@
 # Chapter 1 Coding
 All the ideas below are related with computer programming and programmer.
 
+Here are some basic statistics about this market:
+1. Programmer Population: China grows super fast, data from [this article](https://www.computerworld.com/article/2483690/it-careers/india-to-overtake-u-s--on-number-of-developers-by-2017.html).
+    1. Worldwide: [2013]18.2 million, [2019]26.4 million, 45% increase
+    1. China: [2013]1.9 million, [2017][5 million](https://www.jianshu.com/p/273e0ad7ea8f), **163% increase**
+    2. India: [2013]2.75 million, [2018]5.2 million, 90% increase
+    3. US: [2013]3.6 million, [2018]4.5 million, 25% increase
+    4. Russian: [2013]1.3 million
+
 ## 1. DevStickers in China
 [DevStickers](https://devstickers.com/) is a marketplace that sells stickers and t-shirts for Web Developer's favorite tools and technologies. According to my current awareness, there is currently no such marketplace in China.
 
@@ -32,6 +40,8 @@ Overall market size is relatively small. Finding the main user groups could be t
 ## 2. Coding Live Broadcasting
 Learning to write code could be a tough process, especially for newbies with no idea how to start the text editor and they are taught to write a for-loop. Even for more experienced programmers who want to enhance their design pattern, they may find no study path to learn from the coding habit of top programmers. Coding live broadcasting could be a solution.
 
+![Coding Live Broadcasting](images/chapter1/CodingLiveBroadcasting.png)
+
 I have seen non-Chinese famous programmers broadcasting coding on Twitch.tv and Youtube, but no such things are well-known among Chinese programmer community. Imagine you turn on the live broadcasting while coding for a job or a project and generate passive income with almost zero operating cost except audience advisory. You could even publish your coding record into video lectures and make recursive money.
 
 As long as you could persuade the audience that you are a strong programmer, whatever the clue that you work for FANG or you are the BDFL of pandas, Chinese programmer would love to pay for learning from you. It is a win-win situation.
@@ -41,8 +51,33 @@ The quality of your broadcasting.
 
 ### Suggested Procedure
 1. Self capability assessment. If you are already a renowned programmer, then you could jump to step 3. Otherwise, you need to recruit your broadcasting hosts.
-2. Recruit hosts. Find renowned programmers using GitHub and write cold emails to them about this idea. You will get a lot of rejections before several say 'Yes'.
+2. Recruit hosts. Find renowned programmers using GitHub and write cold emails to them about this idea. You will get a lot of rejections before several say 'Yes'. Here is [a starter list](https://medium.com/swlh/learn-to-code-with-live-streams-from-the-best-developers-932dcfdbb87) I found from Medium.
 3. Register a broadcasting account on [Douyu](https://www.douyu.com/) using [this link](https://www.douyu.com/special/guide/anchor), the largest broadcasting platform in China. You might need a Chinese speaking partner to help you go over the registration process mainly in Chinese.
 3. Register a WeChat Public Account for your brand using [this link](https://mp.weixin.qq.com/?lang=en_US).
-4. Recruit your first several users from coding tutorial websites like [Liaoxuefeng](https://www.liaoxuefeng.com/) and [Runoob](http://www.runoob.com/) by advertisements.
+4. Recruit your first several users from:
+    1. Coding tutorial websites like [Liaoxuefeng](https://www.liaoxuefeng.com/) and [Runoob](http://www.runoob.com/) by advertisements.
+    2. Personal connections
 5. Scale it up with fast iteration based on user feedback. Be sure always to serve what the programmers needed.
+
+## 3. Scrimba in China
+[Scrimba](https://scrimba.com/) is a new way of teaching and learning how to code. We call it interactive code screencasts, which allows user to play around with the instructors code any time, right in the player. By the end of 2018, Scrimba is still in its beta version without a payment option. Given that the Scrimba repository (if they use GitHub to manage their repository) is not public visible, I guess they will monetize the platform after beta.
+
+![Scrimba](images/chapter1/Scrimba.png)
+
+According to my current awareness, there is no such platform in China.
+
+### Successful Determinant
+The proprietary technology stack that builds the Scrimba-like interactive player.
+
+### Suggested Procedure
+1. Inspect Scrimba. Use the Chrome inspect function and try to figure out how it works. You will need to have an advanced knowledge in JavaScript.
+2. Lobby with Scrimba. Negotiate and try to cooperate as their Chinese agent. If rejected, at least make sure you grasp some useful fraction of building a similar platform.
+3. Build the prototype. This is the hardest part.
+4. Introduce your prototype to:
+    1. MOOC (Massive Online Open Course) platforms
+        1. [163 Study](https://study.163.com/)
+        2. [Tecent Classroom](https://ke.qq.com/)
+    2. Coding tutorial websites
+        1. [Liaoxuefeng](https://www.liaoxuefeng.com/)
+        2. [Runoob](http://www.runoob.com/)
+5. Develop an eye-catching course to drive original traffic. The topic should be related with a mainstream demand and without strong competition. For example, Srimba published [`Neural Network in JavaScript`](https://scrimba.com/g/gneuralnetworks).
