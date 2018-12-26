@@ -2,6 +2,7 @@
 All the ideas below are related with computer programming and programmer.
 
 Here are some basic statistics about this market:
+
 1. Programmer Population: China grows super fast, data from [this article](https://www.computerworld.com/article/2483690/it-careers/india-to-overtake-u-s--on-number-of-developers-by-2017.html).
     1. Worldwide: [2013]18.2 million, [2019]26.4 million, 45% increase
     1. China: [2013]1.9 million, [2017][5 million](https://www.jianshu.com/p/273e0ad7ea8f), **163% increase**
@@ -12,7 +13,7 @@ Here are some basic statistics about this market:
 ## 1. DevStickers in China
 [DevStickers](https://devstickers.com/) is a marketplace that sells stickers and t-shirts for Web Developer's favorite tools and technologies. According to my current awareness, there is currently no such marketplace in China.
 
-![DevStickers](images/chapter1/DevStickers.png)
+![DevStickers](images/chapter1/1_DevStickers.png)
 
 As more 90s and 00s becoming programmers, products and accessories that demonstrate personality will be in good sale.
 
@@ -40,7 +41,7 @@ Overall market size is relatively small. Finding the main user groups could be t
 ## 2. Coding Live Broadcasting
 Learning to write code could be a tough process, especially for newbies with no idea how to start the text editor and they are taught to write a for-loop. Even for more experienced programmers who want to enhance their design pattern, they may find no study path to learn from the coding habit of top programmers. Coding live broadcasting could be a solution.
 
-![Coding Live Broadcasting](images/chapter1/CodingLiveBroadcasting.png)
+![Coding Live Broadcasting](images/chapter1/2_CodingLiveBroadcasting.png)
 
 I have seen non-Chinese famous programmers broadcasting coding on Twitch.tv and Youtube, but no such things are well-known among Chinese programmer community. Imagine you turn on the live broadcasting while coding for a job or a project and generate passive income with almost zero operating cost except audience advisory. You could even publish your coding record into video lectures and make recursive money.
 
@@ -62,7 +63,7 @@ The quality of your broadcasting.
 ## 3. Scrimba in China
 [Scrimba](https://scrimba.com/) is a new way of teaching and learning how to code. We call it interactive code screencasts, which allows user to play around with the instructors code any time, right in the player. By the end of 2018, Scrimba is still in its beta version without a payment option. Given that the Scrimba repository (if they use GitHub to manage their repository) is not public visible, I guess they will monetize the platform after beta.
 
-![Scrimba](images/chapter1/Scrimba.png)
+![Scrimba](images/chapter1/3_Scrimba.png)
 
 According to my current awareness, there is no such platform in China.
 
