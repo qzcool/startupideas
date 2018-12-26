@@ -84,7 +84,7 @@ The proprietary technology stack that builds the Scrimba-like interactive player
 5. Develop an eye-catching course to drive original traffic. The topic should be related with a mainstream demand and without strong competition. For example, Srimba published [`Neural Network in JavaScript`](https://scrimba.com/g/gneuralnetworks).
 
 ## 4. Code Review On-demand Platform
-This idea is inspired from the code review process of Udacity's Projects and has a potential to operate globally.
+This idea is inspired from the code review process of Udacity's Project and has a potential to operate globally.
 
 ![Udacity Code Review](images/chapter1/4_UdacityCodeReview.png)
 
@@ -108,11 +108,12 @@ Find experienced code reviewers and build the Platform.
     4. Freelancers Websites: TopTal, UpWork
 2. Recruit demand, here are some places you may find them:
     1. Your own code or your friends' code
-    2. Coding starter forums: Udacity Nanodegree forums, Slack groups
+    2. Coding starter forums: MOOC students, Udacity Nanodegree forums, Slack groups
     3. People asking questions on StackOverflow, SegmentFault, [CSDN](https://www.csdn.net/)
     4. Companies with limited code review service for internal developers including startups and big non-tech companies
 3. Minimum Viable Product: Manually matches supply with demand to the point where you have to rely on a proprietary platform to handle the order volume. Fast iterates on user feedback to improve the overall process and be responsible to the Net Promoter Score (NPS) but sales.
 4. Scale it up: Build the platform using the prototype below and automate. This business should be good to boom.
+5. Build an App and Publish on GitHub Marketplace. Optionally, you could provide a human-inspected code review service, compares to existing algorithm-inspected services. 
 
 ### Prototype
 #TODO
