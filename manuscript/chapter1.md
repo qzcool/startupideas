@@ -17,7 +17,7 @@ Here are some basic statistics about this market:
 
 As more 90s and 00s becoming programmers, products and accessories that demonstrate personality will be in good sale.
 
-### Successful Determinant
+### Successful Determinants
 Overall market size is relatively small. Finding the main user groups could be tough.
 
 ### Suggested Procedure
@@ -47,7 +47,7 @@ I have seen non-Chinese famous programmers broadcasting coding on Twitch.tv and 
 
 As long as you could persuade the audience that you are a strong programmer, whatever the clue that you work for FANG or you are the BDFL of pandas, Chinese programmer would love to pay for learning from you. It is a win-win situation.
 
-### Successful Determinant
+### Successful Determinants
 The quality of your broadcasting.
 
 ### Suggested Procedure
@@ -67,11 +67,11 @@ The quality of your broadcasting.
 
 According to my current awareness, there is no such platform in China.
 
-### Successful Determinant
+### Successful Determinants
 The proprietary technology stack that builds the Scrimba-like interactive player.
 
 ### Suggested Procedure
-1. Inspect Scrimba. Use the Chrome inspect function and try to figure out how it works. You will need to have an advanced knowledge in JavaScript.
+1. Inspect Scrimba. Use the Chrome `inspect` function and try to figure out how it works. You will need to have an advanced knowledge in JavaScript.
 2. Lobby with Scrimba. Negotiate and try to cooperate as their Chinese agent. If rejected, at least make sure you grasp some useful fraction of building a similar platform.
 3. Build the prototype. This is the hardest part.
 4. Introduce your prototype to:
@@ -82,3 +82,37 @@ The proprietary technology stack that builds the Scrimba-like interactive player
         1. [Liaoxuefeng](https://www.liaoxuefeng.com/)
         2. [Runoob](http://www.runoob.com/)
 5. Develop an eye-catching course to drive original traffic. The topic should be related with a mainstream demand and without strong competition. For example, Srimba published [`Neural Network in JavaScript`](https://scrimba.com/g/gneuralnetworks).
+
+## 4. Code Review On-demand Platform
+This idea is inspired from the code review process of Udacity's Projects and has a potential to operate globally.
+
+![Udacity Code Review](images/chapter1/4_UdacityCodeReview.png)
+
+There are multiple levels of programmers, the raise of one level always means a magnitude of hard effort. Based on the Dunning–Kruger effect, only the Basic and Extraordinary programmers are the happiest. Extraordinary programmers are masters who have overcome all major issues in coding and usually we call then the BDFL of some technology or an experienced full-stack engineer. Basic programmers are forks just be able to achieve a functionality using 'hard code' or Procedure Oriented Programming (Most even don't know what this concept means!), they are just amazed by the power of coding and have not met upfront issues like reusability.
+
+![Dunning–Kruger Effect](images/chapter1/4_DunningKrugerEffect.jpeg)
+
+As long as a Basic programmer dives deeper, she will not be happy that much as she comes across the concept of `Don't Repeat Yourself (DRY)`because she literally repeats herself too much. **Here is exactly where the Code Review On-demand Platform (the Platform, below) could plug-in.** Instead of randomly searching on Google for code enhancement suggestions from multiples sources like StackOverflow or documentations and manually picking useful tips themselves, Basic programmers could rely on the Platform for suggestions. By simply submitting the code through GitHub or other channels, the platform categorizes the field of your code and matches your code with an experienced reviewer who is an expert in the selected field. After check, Basic programmer gets a detailed code review report and reviewer monetizes her skills while the Platform gets cut, a win-win situation.
+
+If you know existing automatic code review platforms on GitHub like Codacy, you may wonder why this person-to-person idea still works. Here is my attempted answer. Algorithms still cannot return creativity yet. When it comes to debugging, algorithms might be better off than human. But for design patterns and career development suggestions, algorithms still have a long way to go to surpass human.
+
+### Successful Determinants
+Find experienced code reviewers and build the Platform.
+
+### Suggested Procedure
+1. Check the Udacity Code Review process or the prototype I created. Having a deep understanding of the business logic is important.
+2. Recruit supply, code reviewers from experienced programmers. Here are some places you may find them:
+    1. StackOverflow, SegmentFault (Chinese StackOverflow)
+    2. Personal connections
+    3. GitHub: find programmers with repository that has lots of stars and forks
+    4. Freelancers Websites: TopTal, UpWork
+2. Recruit demand, here are some places you may find them:
+    1. Your own code or your friends' code
+    2. Coding starter forums: Udacity Nanodegree forums, Slack groups
+    3. People asking questions on StackOverflow, SegmentFault, [CSDN](https://www.csdn.net/)
+    4. Companies with limited code review service for internal developers including startups and big non-tech companies
+3. Minimum Viable Product: Manually matches supply with demand to the point where you have to rely on a proprietary platform to handle the order volume. Fast iterates on user feedback to improve the overall process and be responsible to the Net Promoter Score (NPS) but sales.
+4. Scale it up: Build the platform using the prototype below and automate. This business should be good to boom.
+
+### Prototype
+#TODO

@@ -9,6 +9,8 @@ Now I decide to help non-Chinese entrepreneurs to enter the biggest consumer mar
 
 All ideas are 100% original, and free to use. The book will be updated as more ideas flowing to my mind. If you would like to contact with me about ideas, please feel free to submit an issue on [GitHub](https://github.com/qzcool/startupideas/issues). If you would like to connect with me on LinkedIn for more personalized suggestions and partnership, please use [this link](https://www.linkedin.com/in/qiaoz/). Let us make the world a better place with our initiatives!
 
+This book is for my beloved family and friends!
+
 Qiao Zhang
 
 Beijing
