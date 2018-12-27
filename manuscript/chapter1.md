@@ -88,7 +88,7 @@ This idea is inspired from the code review process of Udacity's Project and has 
 
 ![Udacity Code Review](images/chapter1/4_UdacityCodeReview.png)
 
-There are multiple levels of programmers, the raise of one level always means a magnitude of hard effort. Based on the Dunning–Kruger effect, only the Basic and Extraordinary programmers are the happiest. Extraordinary programmers are masters who have overcome all major issues in coding and usually we call then the BDFL of some technology or an experienced full-stack engineer. Basic programmers are forks just be able to achieve a functionality using 'hard code' or Procedure Oriented Programming (Most even don't know what this concept means!), they are just amazed by the power of coding and have not met upfront issues like reusability.
+There are multiple levels of programmers, the upgrade of one level always means a magnitude of hard effort. Based on the Dunning–Kruger effect, only the Basic and Extraordinary programmers are the happiest. Extraordinary programmers are masters who have overcome all major issues in coding and usually we call then the BDFL of some technology or an experienced full-stack engineer. Basic programmers are forks just be able to achieve a functionality using 'hard code' or Procedure Oriented Programming (Most even don't know what this concept means!), they are just amazed by the power of coding and have not met upfront issues like reusability.
 
 ![Dunning–Kruger Effect](images/chapter1/4_DunningKrugerEffect.jpeg)
 
@@ -113,7 +113,53 @@ Find experienced code reviewers and build the Platform.
     4. Companies with limited code review service for internal developers including startups and big non-tech companies
 3. Minimum Viable Product: Manually matches supply with demand to the point where you have to rely on a proprietary platform to handle the order volume. Fast iterates on user feedback to improve the overall process and be responsible to the Net Promoter Score (NPS) but sales.
 4. Scale it up: Build the platform using the prototype below and automate. This business should be good to boom.
-5. Build an App and Publish on GitHub Marketplace. Optionally, you could provide a human-inspected code review service, compares to existing algorithm-inspected services. 
+5. Build an App and Publish on GitHub Marketplace. Optionally, you could provide a human-inspected code review service, compares to existing algorithm-inspected services.
+
+### Prototype
+#TODO
+
+## 5. Job Search for Programmers
+There are already many big players in the general job search market, such as [Lagou](https://www.lagou.com/), [51Job](https://www.51job.com/) and [Liepin](https://www.liepin.com/). There are already programmer-oriented websites that offer Job sections, such as [CSDN](https://job.csdn.net/) and [OSChina](https://job.oschina.net/).
+
+**There is no job search service provider only for programmers.** The dedication to a children market could means professionalism, achieved through ways like:
+
+1. allowing applicants to filter jobs by tech stack
+![A Sample of stackshare Job Search by Stack](images/chapter1/5_StackShareJob.png)
+
+2. displaying the tech stack of every listed company
+![A Sample of stackshare Company Stack](images/chapter1/5_StackShareCompany.png)
+
+3. including every developer job which is searchable on the Internet
+
+4. creating self-assessment for developers to identify their skills and improve accordingly like the [PluralSight Role IQ](https://www.pluralsight.com/role-iq/react-web-developer) test
+
+5. matching development supply with demand by algorithms (machine learning, AI)
+
+6. integrating deeply with [GitHub](https://github.com/) as a GitHub App
+
+7. helping the employers to find developers with right stack
+
+### Successful Determinants
+1. Getting company stack data.
+1. Programmer-centered perspective. For, by, with programmers.
+2. Development of Self-assessment tests.
+
+### Suggested Procedure
+1. Minimum viable product: manually matching supply with demand by stack. You should start from your existing knowledge about company stack and applicants capability. Extract the mainstream and high-frequency pain points (the Pain Points) from the manual process.
+2. Shift products to handle the Pain Points, one at a time. An attempted list of products could be like:
+    1. Developer Jobs Description Database: confirms the stack needed of each job, data acquisition combines web scraping with user uploads, enables:
+        1. Job search by stack
+        2. Company stack profile
+    2. Self-assessment tests: for applicants to know where they should stack up
+    3. Algorithm matching: using AI
+    4. Team skill builder: A mapping tool helps you identify the skill gap between your project/startup's need and your current team setting, and automatically figures out specific job roles that are needed. I have a personal attempted solution in [this repository](https://github.com/qzcool/Startup-Team-Builder).   
+3. Recruit early-adapting users.
+    1. Applicants: Job Search Websites
+        1. [Ying Jie Sheng](http://www.yingjiesheng.com/), for recent graduates
+        2. [Lagou](https://www.lagou.com/), for Internet industry
+    2. Employers: find HRs on LinkedIn, [Maimai](https://maimai.cn/) (LinkedIn copycat) and so on.
+3. Scale it up. Only after your product is greatly loved by early users.
+4. Monetization. The strategy could be just like other players, such as charging the employer the headhunt cut per employment.
 
 ### Prototype
 #TODO
