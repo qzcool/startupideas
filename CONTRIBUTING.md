@@ -1,2 +1,5 @@
-Help needed:
-1. Proofreading. Improvement of the grammer and vocabulary.
+# Proofreading
+Improvement of the grammer and vocabulary is always welcomed.
+
+# More ideas
+Fork the repo and make a pull request with your ideas filling in the chapter.
