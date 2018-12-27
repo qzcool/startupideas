@@ -6,4 +6,4 @@
 <img src="manuscript/images/cover.jpg" width="300">
 
 ## Contributing
-Please read the [CONTRIBUTING.md](/CONTRIBUTING.md).
+Please read the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
