@@ -125,18 +125,12 @@ There are already many big players in the general job search market, such as [La
 
 1. allowing applicants to filter jobs by tech stack
 ![A Sample of stackshare Job Search by Stack](images/chapter1/5_StackShareJob.png)
-
 2. displaying the tech stack of every listed company
 ![A Sample of stackshare Company Stack](images/chapter1/5_StackShareCompany.png)
-
 3. including every developer job which is searchable on the Internet
-
 4. creating self-assessment for developers to identify their skills and improve accordingly like the [PluralSight Role IQ](https://www.pluralsight.com/role-iq/react-web-developer) test
-
 5. matching development supply with demand by algorithms (machine learning, AI)
-
 6. integrating deeply with [GitHub](https://github.com/) as a GitHub App
-
 7. helping the employers to find developers with right stack
 
 ### Successful Determinants
