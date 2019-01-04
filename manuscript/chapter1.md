@@ -157,3 +157,14 @@ There are already many big players in the general job search market, such as [La
 
 ### Prototype
 #TODO
+
+## 6. Utils Package Sharing Marketplace
+One of many funs of programming is that it allows you to encapsulate your frequently used scripts into a module or package called `utils` so that to reduce redundancy and increase efficiency. As our experience increases, our daily job will be more and more likely to be a combination of a 80% of your existing `utils` and a 20% of some seasoning (creativity, the uniqueness of projects).
+
+Let us imagine if are using the `utils` from a top programmer in a narrow field, which includes a series of APIs that are well-documented and efficiency-optimized, you will definitely be more confident with that specific field that you would even not bother to pay. By creating such a utils sharing marketplace, good packages could monetize as they deserve and the overall utility of the community could improve significantly.
+
+### Successful Determinants
+1. Acquire a minimum amount of high-quality utils from top programmers to start off.
+2. Recruit early adopters who could trust the marketplace.
+
+### Suggested Procedure
