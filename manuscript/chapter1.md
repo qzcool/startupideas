@@ -115,8 +115,10 @@ Find experienced code reviewers and build the Platform.
 4. Scale it up: Build the platform using the prototype below and automate. This business should be good to boom.
 5. Build an App and Publish on GitHub Marketplace. Optionally, you could provide a human-inspected code review service, compares to existing algorithm-inspected services.
 
+<!--
 ### Prototype
 #TODO
+-->
 
 ## 5. Job Search for Programmers
 There are already many big players in the general job search market, such as [Lagou](https://www.lagou.com/), [51Job](https://www.51job.com/) and [Liepin](https://www.liepin.com/). There are already programmer-oriented websites that offer Job sections, such as [CSDN](https://job.csdn.net/) and [OSChina](https://job.oschina.net/).
@@ -155,8 +157,10 @@ There are already many big players in the general job search market, such as [La
 3. Scale it up. Only after your product is greatly loved by early users.
 4. Monetization. The strategy could be just like other players, such as charging the employer the headhunt cut per employment.
 
+<!---
 ### Prototype
 #TODO
+--->
 
 ## 6. Utils Package Sharing Marketplace
 One of many funs of programming is that it allows you to encapsulate your frequently used scripts into a module or package called `utils` so that to reduce redundancy and increase efficiency. As our experience increases, our daily job will be more and more likely to be a combination of a 80% of your existing `utils` and a 20% of some seasoning (creativity, the uniqueness of projects).
