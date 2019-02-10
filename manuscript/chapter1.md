@@ -200,9 +200,9 @@ You could do exactly the same as CodeByte and LeetCode in China, helping Chinese
 2. Build the interactive platform.
 3. **Challenge Displayer**: A Sharable image or WeChat mini-program that displays a certain coding challenge with detailed solution and related discussion to allow users to share so as to drive free traffic to your website. The point is to help the users get the most out of a hyperlink. This determinant is inspired by 得到 (DeDao) when they display key takeaways from their columns and 大众点评 (Dianping, of Meituan) when they display a local service like restaurants.
 
-![A sharable image from DeDao](images\chapter1\7_DeDao.jpg)
+![A sharable image from DeDao](images/chapter1/7_DeDao.jpg)
 
-![A WeChat mini-program from Dianping](images\chapter1\7_Dianping.png)
+![A WeChat mini-program from Dianping](images/chapter1/7_Dianping.png)
 
 ### Suggested Procedure
 1. Collect all major coding challenges from LeetCode and CodeByte.
