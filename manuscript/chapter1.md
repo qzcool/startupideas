@@ -1,7 +1,7 @@
 # Chapter 1 Coding
 All the ideas below are related with computer programming and programmer.
 
-Here are some basic statistics about this market:
+In case you do not know yet, here are some common knowledge about this market:
 
 1. Programmer Population: China grows super fast, data from [this article](https://www.computerworld.com/article/2483690/it-careers/india-to-overtake-u-s--on-number-of-developers-by-2017.html).
     1. Worldwide: [2013]18.2 million, [2019]26.4 million, 45% increase
@@ -9,6 +9,8 @@ Here are some basic statistics about this market:
     2. India: [2013]2.75 million, [2018]5.2 million, 90% increase
     3. US: [2013]3.6 million, [2018]4.5 million, 25% increase
     4. Russian: [2013]1.3 million
+2. Build a mobile-responsive website, or even just a WeChat mini-program is surprisingly vital. Most Chinese prefer WeChat on mobile phones than anything on computers as their entrance to online information and service.
+3. Most successful Chinese programmers are making more, at least as much as, money than programmers from the developed countries. Local top tier internet companies are attracting more and more experienced talents from the Silicon Valley.     
 
 ## 1. DevStickers in China
 [DevStickers](https://devstickers.com/) is a marketplace that sells stickers and t-shirts for Web Developer's favorite tools and technologies. According to my current awareness, there is currently no such marketplace in China.
@@ -248,8 +250,44 @@ This idea might not be enough to support a profitable business, but as long as y
 ### Suggested Procedure
 1. Build the music playlist. You might want to allow users to add their favorite as well. A possible method is to create a repository on GitHub to store the playlist and leverage the GitHub existing infrastructure like Issues and Pull requests.
 2. Find the right play channel by running A/B tests. There are several available channels below to test out:
-    1. Netease Music Playlist. Netease Music is Spotify in China, the existing infrastructure could alleviate the playlist management suffering.
-    ![Netease Music Playlist](images/chapter1/9_NeteaseMusicPlaylist.png)
+    1. NetEase Music Playlist. NetEase Music is Spotify in China, the existing infrastructure could alleviate the playlist management suffering.
+    ![NetEase Music Playlist](images/chapter1/9_NetEaseMusicPlaylist.png)
     2. Offering as a Service to major programming-related WeChat Public Accounts like freeCodeCamp.
     ![freeCodeCamp WeChat Public Account](images/chapter1/9_freeCodeCampWeChat.png)
     3. Live on [Douyu](https://www.douyu.com/), which is Twitch.tv in China.
+
+## 10. A Marketplace for Low Value Side Projects
+Inspired by [1KProjects](https://1kprojects.com/), this curated marketplace will be where makers sell their abandoned projects for
+less than ￥5000. In Avengers 3 Infinity War, there is a conversion between Loki and Thanos at the beginning on the Ascardian spaceship. Thanos considers failure experience not as experience, while Loki considers experience experience. If you are agree with Loki, then you would believe in the value of a low value projects exchange. This business is making money out of a cut of each sale on the platform.
+
+![1KProjects](images/chapter1/10_1KProjects.png)
+
+### Successful Determinants
+1. Build the marketplace, especially the project specification page on WeChat mini-program. **Allowing people to share the projects listed on your platform in WeChat is the key to success.**
+2. Collect enough projects for the momentum to initiate the marketplace.
+
+### Suggested Procedure
+1. Build the marketplace frontend using [Taro](https://taro.aotu.io/), a multi-terminal unified development framework that follows the React grammar specification, which allows you to deliver website and WeChat mini-program simultaneously.
+2. Design the project specification page on WeChat mini-program.
+2. Design the transaction process, offer, treaty and protocol of the marketplace, to decrease the transaction harassment so as to increase user experience. Take a look at [SideProject.Tech](https://1kprojects.com/project/sideprojecttech) on 1KProjects to check how to design an offer and describe the project details.
+3. Confirm your marketplace support WeChat Payment and Alipay.
+4. Do survey among project sellers on setting a reasonable platform sales cut rate. A lower rate is expected in China for the sake of higher competition. I would say 10% is a good start.
+
+## 11. Programmer Ranking System
+As we all know, Chinese are really good at taking exams. But there is no exam to evaluate programming ability in China. Inspired by `One Punch Man` [Hero Association](https://onepunchman.fandom.com/wiki/Heroes), we could categorize programmers into similar S/A/B/C class by standard exams. Your results tell you where to start within a learning path, so you can develop the skills you need most and not waste time on what you already know.
+
+![Saitama feels disappointed when only graded class C, by One Punch Man](images/chapter1/11_OnePuchMan.jpeg)
+
+A reference of this idea is [Pluralsight IQ](https://www.pluralsight.com/product/skill-iq).
+
+![PluralSight Skill IQ](images/chapter1/11_PluralSightIQ.png)
+
+### Successful Determinants
+1. Design the evaluation exams to achieve the Nash Equilibrium between time consuming and precision.
+2. Ranking System is well-recognized by majority.
+
+### Suggested Procedure
+1. Improve your evaluation exams on top of Pluralsight IQ, which is already an all-round exam system, with some localization seasoning.
+2. Build the website with exams and a delicate mobile-responsive personal profile page or sharable credential badge for people to announce their programming ability to the community.
+3. **Write viral marketing posts to encourage people to take your exams, and share the results as an image with a QR code ridirecting to your website to their connections on WeChat.** A good reference are several viral marketing personal characteristics tests by NetEase to drive organic and cheap traffic to its app.
+![A example of several NetEase Personality Tests](images/chapter1/11_NetEase.jpg)
