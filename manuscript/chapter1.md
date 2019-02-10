@@ -180,4 +180,33 @@ Let us imagine if are using the `utils` from a top programmer in a narrow field,
 5. Use the **Traffic Redirect Trick** once again, but for the marketplace this time, to drive users.
 6. Take data-driven decisions and you are good to start off.
 
-## 7.
+## 7. Coding Challenges (Codebyte and Leetcode) in China
+In terms of coding challenges, currently you will be most likely to find them here in China:
+1. GitHub repositories like this [CodingInterviews](https://github.com/gatieme/CodingInterviews). Challenges are mostly out-of-date. Also, it is hard to interact and get code reviews or feedbacks.
+2. Coding Interview Preparation Groups on WeChat. The challenges here are often provided by the latest interviewers. But the problem is it is hard for a newcomer to get the whole picture of a interview out of a few separated challenges. Also, if you do not have access to the group, even you would not be bothered to pay, you are still lack of that key information.
+
+From [Codebyte](https://coderbyte.com/) it says:
+```
+Get access to the best collection of coding challenges that you can solve directly online in 10 programming languages. The challenges come with official solutions and tens of thousands of user solutions. You can also brush up on your skills by reading our tutorials in topics like advanced JavaScript features, data structures, and algorithm interview questions asked at companies like Google and Microsoft.
+```
+[LeetCode](https://leetcode.com/) it says:
+```
+At LeetCode, our mission is to help you improve yourself and land your dream job. We have a sizable repository of interview resources for many companies. In the past few years, our users have landed jobs at top companies around the world.
+```
+You could do exactly the same as CodeByte and LeetCode in China, helping Chinese programmers landing their dream jobs. This idea is quite straightforward, you can just be a copycat of the website and business model design but equipped it with the local knowledge.
+
+### Successful Determinants
+1. The latest coding interview challenges from Chinese top internet companies, like Baidu, Alibaba, Tencent, Didi, Meituan, Toutiao and so on.
+2. Build the interactive platform.
+3. **Challenge Displayer**: A Sharable image or WeChat mini-program that displays a certain coding challenge with detailed solution and related discussion to allow users to share so as to drive free traffic to your website. The point is to help the users get the most out of a hyperlink. This determinant is inspired by 得到 (DeDao) when they display key takeaways from their columns and 大众点评 (Dianping, of Meituan) when they display a local service like restaurants.
+
+![A sharable image from DeDao](images\chapter1\7_DeDao.jpg)
+
+![A WeChat mini-program from Dianping](images\chapter1\7_Dianping.png)
+
+### Suggested Procedure
+1. Collect all major coding challenges from LeetCode and CodeByte.
+2. Build the interactive platform that allows users to practice online.
+3. Build the Challenge Displayer mentioned above.
+3. Keep adding latest programming challenges from BAT's interviews. The better the quality of challenges, the more organic traffic the platform will have.
+4. Use the `Traffic Redirect Trick`. Answer programming questions using solutions from your challenges on StackOverflow, SegmentFault, CSDN, Quora and ZhiHu, you name it. Redirect traffic to your platform to convert early adopters.
