@@ -210,3 +210,18 @@ You could do exactly the same as CodeByte and LeetCode in China, helping Chinese
 3. Build the Challenge Displayer mentioned above.
 3. Keep adding latest programming challenges from BAT's interviews. The better the quality of challenges, the more organic traffic the platform will have.
 4. Use the `Traffic Redirect Trick`. Answer programming questions using solutions from your challenges on StackOverflow, SegmentFault, CSDN, Quora and ZhiHu, you name it. Redirect traffic to your platform to convert early adopters.
+
+## 8. Scaffold Marketplace
+Scaffolds are Plugins, Code and Scripts to help you shift software faster and better starting from existing wheels instead of scratch. You might have heard of [CodeCanyon](https://codecanyon.net/), the largest similar marketplace of the world. There is no such marketplace in China yet. You could start a profitable business by building this marketplace and get cut out of each sale.
+
+![CodeCanyon](images/chapter1/8_CodeCanyon.png)
+
+One special attention worth reminding is the paying willingness to software of Chinese. Since the age of 1990s when Microsoft deliberately allowed pirated Windows to spread freely in China so as to dominate the local Operating System market, Chinese have been so accustomed to use software for free. In fact, even nowadays, large public-listed corporations in the country are still benefiting from pirated software. However, the overall limited awareness to copyrights does not mean the market is unreasonable. Due to the rising generation of millennium and stricter copyright-protection laws being enforced, although a larger percentage of free scaffolds than the developed countries' average is still expected, the sales of the marketplace is expected to grow fast, almost for sure if quality is assured.
+
+### Successful Determinants
+1. The quality and quantity of scaffolds.
+
+### Suggested Procedure
+1. Build the marketplace on top of [Scaffold](https://github.com/ant-design/scaffold-market/) by Ant Design. The source code is under MIT license, which means free to use even commercially. Insert the payment system and expand the supported scaffolds into more categories, like code and plugins.
+![Scaffold by Ant Design](images/chapter1/8_Scaffold.png)
+4. Use the `Traffic Redirect Trick`. Answer programming questions using scaffolds from your marketplace on StackOverflow, SegmentFault, CSDN, Quora and ZhiHu, you name it. Redirect traffic to your platform to convert early adopters.
