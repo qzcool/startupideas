@@ -25,3 +25,13 @@ Based on the development time involved, value of the prototype.
 
 ## The Law of the Diffusion of Innovation
 ![The Law of the Diffusion of Innovation](images/reference_InnovationDiffusionLaw.jpeg)
+
+## If you find naming your business a problem, try this out:
+[Business Name Generator](https://www.shopify.com/tools/business-name-generator) by Shopify
+
+## If you find getting high-resolution images for your business a problem, try this out:
+1. [Burst](https://burst.shopify.com/) by Shopify
+2. [Unsplash](https://unsplash.com/)
+
+## If you find designing the logo of your business a problem, try this out:
+[Hatchful](https://hatchful.shopify.com/) by Shopify

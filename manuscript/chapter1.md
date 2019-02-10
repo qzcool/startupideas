@@ -168,7 +168,16 @@ One of many funs of programming is that it allows you to encapsulate your freque
 Let us imagine if are using the `utils` from a top programmer in a narrow field, which includes a series of APIs that are well-documented and efficiency-optimized, you will definitely be more confident with that specific field that you would even not bother to pay. By creating such a utils sharing marketplace, good packages could monetize as they deserve and the overall utility of the community could improve significantly.
 
 ### Successful Determinants
-1. Acquire a minimum amount of high-quality utils from top programmers to start off.
+1. Acquire a minimum amount of high-quality and well-documented `utils` from top programmers to start off.
 2. Recruit early adopters who could trust the marketplace.
+3. Implement an allergic information auto-detect scanner tool to protect privacy from newly-uploaded `utils`.
 
 ### Suggested Procedure
+1. Starting with GitHub, you could upload your `utils` with some documentation to a public repository. But you will not get stars and forks automatically.
+2. **Traffic Redirect Trick**: Answer programming questions using scripts from your `utils` on StackOverflow, SegmentFault, CSDN, Quora and ZhiHu, you name it. Redirect traffic to your repository and invite people to star.
+3. As long as you have enough stargazers, build the marketplace that would finally become the trading platform using the tech stack you are familiar with, such as React/Express/MongoDB/Google Analytics.
+4. Invite other premium `utils` owners to upload on the marketplace.
+5. Use the **Traffic Redirect Trick** once again, but for the marketplace this time, to drive users.
+6. Take data-driven decisions and you are good to start off.
+
+## 7.
