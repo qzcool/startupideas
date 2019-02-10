@@ -225,3 +225,31 @@ One special attention worth reminding is the paying willingness to software of C
 1. Build the marketplace on top of [Scaffold](https://github.com/ant-design/scaffold-market/) by Ant Design. The source code is under MIT license, which means free to use even commercially. Insert the payment system and expand the supported scaffolds into more categories, like code and plugins.
 ![Scaffold by Ant Design](images/chapter1/8_Scaffold.png)
 4. Use the `Traffic Redirect Trick`. Answer programming questions using scaffolds from your marketplace on StackOverflow, SegmentFault, CSDN, Quora and ZhiHu, you name it. Redirect traffic to your platform to convert early adopters.
+
+## 9. Coding Concentration Music
+Like [freeCodeCamp Radio](https://www.youtube.com/freecodecamp/live) says:
+```
+This music will help you get into a flow state so you can crank out some serious code.
+```
+
+![freeCodeCamp Radio](images/chapter1/9_freeCodeCampRadio.png)
+
+I personally turn on the radio all day long while I was working on projects. Believe it or not, it helps me.
+
+If you need to know more about the idea behind it, please read [Introducing Code Radio: 24/7 jazzy beats you can code to 🎧 + 💻](https://medium.freecodecamp.org/introducing-24-7-freecodecamp-radio-chill-tunes-you-can-code-to-dbae61681cf0).
+
+There is a content suggestion, I have heard a hypothesis that some people are more focused in a little noisy environment, like a coffee shop. You could do some test on this hypothesis.
+
+This idea might not be enough to support a profitable business, but as long as you find great music resources, especially Chinese-oriented music, and right channels to reach your audience, traffic is guaranteed.
+
+### Successful Determinants
+1. Build a large enough music playlist to support 24/7 playing, with local music included.
+
+### Suggested Procedure
+1. Build the music playlist. You might want to allow users to add their favorite as well. A possible method is to create a repository on GitHub to store the playlist and leverage the GitHub existing infrastructure like Issues and Pull requests.
+2. Find the right play channel by running A/B tests. There are several available channels below to test out:
+    1. Netease Music Playlist. Netease Music is Spotify in China, the existing infrastructure could alleviate the playlist management suffering.
+    ![Netease Music Playlist](images/chapter1/9_NeteaseMusicPlaylist.png)
+    2. Offering as a Service to major programming-related WeChat Public Accounts like freeCodeCamp.
+    ![freeCodeCamp WeChat Public Account](images/chapter1/9_freeCodeCampWeChat.png)
+    3. Live on [Douyu](https://www.douyu.com/), which is Twitch.tv in China.
