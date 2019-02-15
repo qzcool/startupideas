@@ -2,6 +2,9 @@
 Open Source Startup Ideas. Let's make the world a better place!
 加速想法落地，助力改变世界。
 
+## Why am I doing this?
+
+
 ## Columns on Zhihu 知乎专栏
 [创业项目开源计划](https://zhuanlan.zhihu.com/startupideas)
 
