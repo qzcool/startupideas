@@ -35,3 +35,9 @@ Based on the development time involved, value of the prototype.
 
 ## If you find designing the logo of your business a problem, try this out:
 [Hatchful](https://hatchful.shopify.com/) by Shopify
+
+## Why it seems that every big Chinese internet companies is doing everything but their American forks are more focused?
+Cutural difference and the difference developing stage of the two countries are the main two reasons. Please read this article to know more, [为什么谷歌苹果，不学腾讯阿里做金融？](https://36kr.com/p/5189689)
+
+## What does BAT stands for?
+Baidu, Alibaba, and Tecent are three giants in Chinese internet business.
