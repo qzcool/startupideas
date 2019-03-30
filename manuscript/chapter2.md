@@ -72,6 +72,6 @@ TBD
 ### Suggested Procedure
 Related tools:
 1. NLP providers:
-  1. [Xiao i](http://open.xiaoi.com/)
-  2. [Tuling](http://www.tuling123.com/)
+    1. [Xiao i](http://open.xiaoi.com/)
+    2. [Tuling](http://www.tuling123.com/)
 2. Python module for WeChat: [WXPY](http://wxpy.readthedocs.io/zh/latest/utils.html#id3)
