@@ -75,3 +75,110 @@ Related tools:
     1. [Xiao i](http://open.xiaoi.com/)
     2. [Tuling](http://www.tuling123.com/)
 2. Python module for WeChat: [WXPY](http://wxpy.readthedocs.io/zh/latest/utils.html#id3)
+
+
+## 5. AI Auditor for Weibo Fake Followers
+
+### Successful Determinants
+TBD
+
+### Suggested Procedure
+TBD
+
+## 6. AI Logo Builder
+
+### Successful Determinants
+TBD
+
+### Suggested Procedure
+TBD
+
+## 7. AI Legal Disputer
+A helper for legal tickets dispute.
+
+### Successful Determinants
+TBD
+
+### Suggested Procedure
+TBD
+
+## 8. Sharing Economy Auto Filter Machine
+Inspired by the YC's article on how to choose the right field to start a sharing economy business.
+
+### Successful Determinants
+TBD
+
+### Suggested Procedure
+TBD
+
+## 9. Commercialisation of Autodraw
+https://www.autodraw.com/
+
+### Successful Determinants
+TBD
+
+### Suggested Procedure
+TBD
+
+## 10. Taxation Auditor
+An AI-powered auditor to detect tax malfunctions like receipts with consecutive IDs.
+
+### Successful Determinants
+TBD
+
+### Suggested Procedure
+TBD
+
+## 11. Dress Matching Automation
+Help women to decide how to pair their shoes and clothes using AI.
+
+### Successful Determinants
+TBD
+
+### Suggested Procedure
+TBD
+
+## 12. AI for Data Analytics
+
+### Successful Determinants
+TBD
+
+### Suggested Procedure
+TBD
+
+## 13. Baby Naming Machine
+AI is not only useful to name a business, but also a new-born.
+
+### Successful Determinants
+TBD
+
+### Suggested Procedure
+TBD
+
+
+## 14. Cover Letter Generator
+There is already a resume generator called WonderCV in China, but not for cover letter yet.
+
+### Successful Determinants
+TBD
+
+### Suggested Procedure
+TBD
+
+## 15. Remote Jobs Recommendation by AI
+Recommend suitable remote jobs based on a candidate's LinkedIn profile, hourly paid, and employers could cancel the contract to protect their best interests. A sample could be [Romote Job Lists](https://www.remotejoblists.com/).
+
+### Successful Determinants
+TBD
+
+### Suggested Procedure
+TBD
+
+## 16. Scholar Paper Reader
+Auto-extract keywords from papers.
+
+### Successful Determinants
+TBD
+
+### Suggested Procedure
+TBD
