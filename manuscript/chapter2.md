@@ -1,5 +1,5 @@
 # Chapter 2 AI and Machine Learning
-## Personal Assistant in China
+## 1. Personal Assistant in China
 Imagine you have a personal assistant like the wealthy who handles your routine of everyday life and save your time. Now with the help of AI, this might not be just a dream. There are already several democratization providers in the US. One of them is **Fin**.
 
 > **More powerful than a digital assistant**
@@ -33,3 +33,45 @@ I am not confident about the success of this business, so as I cannot guaranteed
 3. Do things that don't scale! Start as a WeChat Official Account to provide assistantancy service and gain experience on the standardization and automation of your service. You do not want to waste time building original mobile apps as they are not as agile to test your hypothesis about a profitable business in this field.
 4. As you make your customers happy, you could start your growth hacking journey, city by city. Always make sure your supply capacity is redundant to your demand so as to lower your risk of inconsistent customer satisfaction rate.
 5. A promising future could be acquired by Meituan or BAT. There is a low probability for this business to be a public-listed company due to data acquisiton.
+
+## 2. Human Intelligence on Demand
+Like [Scale API](https://scale.ai/), the API for training data. Scale's API provides access to **human-powered** data for hundreds of use cases, including computer vision like sensor fusion, video, semantic segmentation, cuboids, polygons, 2D boxes and lines & splines, other products including OCR transription, categorization and comparison.
+
+>**How It Works**
+>>After sending us your data via API call, our platform through a combination of human work and review, smart tools, statistical confidence checks and machine learning checks returns scalable, accurate ground truth data.
+
+![Scale API](images/chapter2/2_Scale.png)
+
+### Successful Determinants
+TBD
+
+### Suggested Procedure
+TBD
+
+## 3. AI Web Backend
+Use AI to build a web app backend and auto-figure out user's requests and return an response accordingly. It matches the trend of serverless.
+
+### Successful Determinants
+TBD
+
+### Suggested Procedure
+TBD
+
+## 4. Wechat Bot for Heterosexuals
+Altough female and male share the same language system, but we can still be confident that they speak different languages. As females are generally more emotional while males are more logical, the communication barrier does exist between them, especially for the youth having their very first love experience. It is not uncommon that we heard a couple's break=up traced back to a tiny oral conflict. Girls are always complaining the sturburness of guys and guys are tired of guessing games. Why only Pick-up Artist could be the mastery in this field? AI could exactly be your helper.
+
+By traing NLP with a sufficient amount of conversation data, the algorithm could judge the emotion whether to be positive or negative better than human and crack the hidden truely intention begind the sentences, especially from women.
+
+To be not over-exagerated, anyone who builds this chatbot should win the Nobel Prize for Economics, as to solve the communication barrier betwwen one half of population to the other.
+
+Heal the world, make it a better place...
+
+### Successful Determinants
+TBD
+
+### Suggested Procedure
+Related tools:
+1. NLP providers:
+  1. [Xiao i](http://open.xiaoi.com/)
+  2. [Tuling](http://www.tuling123.com/)
+2. Python module for WeChat: [WXPY](http://wxpy.readthedocs.io/zh/latest/utils.html#id3)
