@@ -6,3 +6,5 @@ Fork the repo and make a pull request with your ideas filling in the chapter.
 
 # Typesetting
 Correct bad indentation, extra lines and white-spaces.
+
+# Donation

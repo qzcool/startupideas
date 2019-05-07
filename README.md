@@ -11,13 +11,22 @@ Now I decide to help non-Chinese entrepreneurs to enter the biggest consumer mar
 
 All ideas are 100% original, they are free to use. The repository will be updated as more ideas flowing to my mind. If you would like to contact with me about ideas, please feel free to submit an issue. If you would like to connect with me on LinkedIn for more personalized suggestions and partnership, please use [this link](https://www.linkedin.com/in/qiaoz/). Let us make the world a better place with our initiatives!
 
-## Columns on Zhihu 知乎专栏
+## Products 产品
+
+### Columns on Zhihu 知乎专栏
 [创业项目开源计划](https://zhuanlan.zhihu.com/startupideas)：中文。
 
-## Publication 出版物
+### WeChat Official Accounts 微信公众号
+
+### Publication 出版物
 [Startups with China](https://leanpub.com/startupswithchina) (English). The book version of this repository is being published on Leanpub. The book is written in English.
 
 <img src="manuscript/images/cover.jpg" width="300">
 
 ## Contributing 贡献
 Please follow the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
+
+## TODO 待办
+### License
+1. 只有提供个人信息才可以下载本书。
+2. 只有承诺未来会分享股权给作者才能查看本书。强调对idea发展早期的控制对business存活的重要意义而不仅是个人利益。

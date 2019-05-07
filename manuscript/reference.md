@@ -37,7 +37,12 @@ Based on the development time involved, value of the prototype.
 [Hatchful](https://hatchful.shopify.com/) by Shopify
 
 ## Why it seems that every big Chinese internet companies is doing everything but their American forks are more focused?
-Cutural difference and the difference developing stage of the two countries are the main two reasons. Please read this article to know more, [为什么谷歌苹果，不学腾讯阿里做金融？](https://36kr.com/p/5189689)
+Cultural difference and the difference developing stage of the two countries are the main two reasons. Please read this article to know more, [为什么谷歌苹果，不学腾讯阿里做金融？](https://36kr.com/p/5189689)
 
 ## What does BAT stands for?
-Baidu, Alibaba, and Tecent are three giants in Chinese internet business.
+Baidu, Alibaba, and Tencent are three giants in Chinese internet business.
+
+## Growth Hacking
+
+## Featured early-round angel investors in different industries and their preference.
+##TODO:真格基金喜欢海归，投早期；列一个表格，基金名称，创始人名校背景要求等；请一级市场的同事帮忙把关。
